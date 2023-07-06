@@ -1,5 +1,5 @@
 
-<h1>Oi, eu sou a Izadora! Seja bem vindo🤓</h1>
+<h1>Seja bem vindo! :)</h1>
 
 <h3>👩‍💻 Minhas estatísticas</h3>
 
