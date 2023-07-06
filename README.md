@@ -3,7 +3,7 @@
 
 <h3>👩‍💻 Minhas estatísticas</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzadoraMorais&show_icons=true&theme=radical)  ![](https://camo.githubusercontent.com/1572b5f171519600392d0c0509abbbf2b7bb14515ed648a623400311dd5bfe82/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64662f31302f31662f64663130316636343366363762393963623339623033313837633034633165652e676966)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzadoraMorais&show_icons=true&theme=radical) 
 
 
 <h3>:books: Estou estudando...</h3>
