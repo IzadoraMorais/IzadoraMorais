@@ -1,6 +1,5 @@
 
-
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+Welcome to my profile! 🤓
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap)](https://skills.thijs.gg)
 
 <!---
