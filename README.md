@@ -8,7 +8,7 @@
 
 <h3>:books: Estou estudando...</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,figma,flutter)](https://skills.thijs.gg)
 
 <h3>📲 Contato</h3>
 
